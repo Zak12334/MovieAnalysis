@@ -2,14 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on a sunny day
-
-
-Student Name: Zak Osman (Sekeriye)???
-
-Student ID: R00237642
-
-Cohort: SD3A???
-
+Done on a cloudy day
 """
 import pandas as pd
 import matplotlib.pyplot as plt
